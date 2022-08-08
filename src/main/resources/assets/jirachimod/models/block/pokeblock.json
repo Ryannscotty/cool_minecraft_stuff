@@ -1,0 +1,13 @@
+{"parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "jirachimod:block/pokeblock"
+  }
+
+
+
+
+
+
+
+
+}
